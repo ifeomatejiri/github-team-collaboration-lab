@@ -1,24 +1,16 @@
-# \#GitHub Team Collaboration Lab
+# GitHub Team Collaboration Lab
 
-
-
-\## purpose 
-
-
-
-
+## Purpose
 
 This project is designed to practice GitHub and collaboration workflow.
 
-
-
-\## skills practiced
+## Skills practiced
 
 
 
 * Git branching
 * Commits and pushing
-* GitHub Issues and labels 
+* GitHub Issues and labels
 * Pull request
 * Merge conflicts
 * Branch protection
